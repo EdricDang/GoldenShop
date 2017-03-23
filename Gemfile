@@ -13,7 +13,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'figaro'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
 ### ASSETS && FRONTEND USAGE
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -58,8 +57,6 @@ gem 'money-rails'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 # randomly generate avatar
-gem "avatarly"
-# image uploader, can use to upload file to local storage or AWS S3
 gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
 # handle image storing
 gem 'cloudinary'
@@ -158,7 +155,6 @@ group :development, :test do
   gem 'rubocop'
 end
 group :production do
-  gem 'rails_12factor'
 end
 group :test do
   gem 'capybara'
@@ -183,8 +179,6 @@ gem 'puma', '~> 3.0'
 # gem 'capistrano-rails', group: :development
 # app monitoring
 gem 'newrelic_rpm'
-# database gem
-gem 'pg'
 # frontend javascript bugs tracker
 gem 'rollbar'
 # bakend exception listener
@@ -199,3 +193,5 @@ gem 'faker'
 gem 'blazer'
 # DB GUID
 gem 'rails_db'
+gem 'rails_12factor'
+gem 'pg', '0.18.4'
