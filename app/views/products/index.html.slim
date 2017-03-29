@@ -1,0 +1,62 @@
+.banner
+  .title Shop
+
+.container.product-page
+  .row
+    .col-md-3
+      .panel.panel-default.panel-product
+        .panel-heading Categories
+        .panel-body
+          .link-categories
+            a href = '/products' All
+          - @categories_list.each do |category|
+            .link-categories
+              = link_to category.name, category
+
+    .col-md-9
+      .row
+        - @products.each do |product|
+          .col-sm-6.col-md-3
+            .thumbnail
+              = image_tag product.image.url
+              .caption
+                h3 = product.name
+                p = product.description
+                .product-price = product.price
+                = link_to 'Details', product, class:'btn btn-info'
+
+
+
+h1 Listing products
+
+table
+  thead
+    tr
+      th Image
+      th Name
+      th Description
+      th Price
+      th Year
+      th Category
+      th User
+      th
+      th
+      th
+
+  tbody
+    - @products.each do |product|
+      tr
+        td = product.image
+        td = product.name
+        td = product.description
+        td = product.price
+        td = product.year
+        td = product.category_id
+        td = product.user_id
+        td = link_to 'Show', product
+        td = link_to 'Edit', edit_product_path(product)
+        td = link_to 'Destroy', product, data: { confirm: 'Are you sure?' }, method: :delete
+
+br
+
+= link_to 'New Product', new_product_path

@@ -195,3 +195,6 @@ gem 'blazer'
 gem 'rails_db'
 gem 'rails_12factor'
 gem 'pg', '0.18.4'
+#admin
+gem 'activeadmin', github: 'activeadmin'
+gem 'mini_magick', '~> 4.3'

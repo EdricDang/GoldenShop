@@ -1,0 +1,19 @@
+p#notice = notice
+.banner
+  .title Product
+.container.product-page
+  .product-page-padding
+    .row
+      .col-md-6
+        .product-img
+          = image_tag @product.image.url
+      .col-md-6
+        .product-info
+          .product-padding
+            .product-name
+              = @product.name
+            .product-description
+               = @product.description
+            .product-price
+               = @product.price
+

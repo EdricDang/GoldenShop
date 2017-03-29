@@ -28,3 +28,165 @@ FATAL:  database "rails5_development" does not exist
 Raven 2.4.0 configured not to capture errors: DSN not set
 Raven 2.4.0 configured not to capture errors: DSN not set
 Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+uninitialized constant Avatarly excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/admin" excluded from capture: DSN not set
+No route matches [GET] "/admin" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/product" excluded from capture: DSN not set
+No route matches [GET] "/product" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/uploads/product/image/6/123" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/6/123" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/public/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/app/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/uploads/product/image/7/thumb_download.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/%3Ca%20href=" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/15/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/15/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/15/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/16/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/15/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/17/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/17/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/17/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/18/download.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/uploads/product/image/18/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/18/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/19/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/21/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/22/download__1_.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/uploads/product/image/23/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/23/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/23/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/24/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/23/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/25/download__1_.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/thumb_download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/26/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/27/download.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set

@@ -11,8 +11,7 @@ I18n.reload!
 
 FG = FactoryGirl
 
-user = FG.create :user, admin: true, email: Rails.application.secrets.admin_email, password: Rails.application.secrets.admin_password, password_confirmation: Rails.application.secrets.admin_password
-user.confirm
-puts 'CREATED ADMIN USER: ' << user.email
+
 # Environment variables (ENV['...']) can be set in the file config/application.yml.
 # See http://railsapps.github.io/rails-environment-variables.html
+AdminUser.create!(email: 'admin@admin.com', password: '123456', password_confirmation: '123456')

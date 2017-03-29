@@ -16,7 +16,7 @@ development:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails5_development
+  database: rails1_development
   pool:     5
   username: myapp
   password: password1
@@ -44,7 +44,7 @@ test:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails5_test
+  database: rails1_test
   pool:     5
   username: myapp
   password: password1
@@ -54,7 +54,7 @@ production:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails5_production
+  database: rails1_production
   pool:     5
   username: myapp
   password: password1
