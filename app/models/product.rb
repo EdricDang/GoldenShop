@@ -4,6 +4,11 @@ class Product < ActiveRecord::Base
   mount_uploader :image, ImageUploader
   validates_processing_of :image
   validate :image_size_validation
+  validates :name, presence: true
+  validates :image, presence: true
+  validates :price, presence: true
+  validates :category_id, presence: true
+  validates :user_id, presence: true
 
   private
     def image_size_validation

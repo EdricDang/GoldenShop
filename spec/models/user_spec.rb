@@ -36,4 +36,5 @@ describe User do
     expect(@user.email).to match 'user@example.com'
   end
 
+
 end
