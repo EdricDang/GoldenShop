@@ -198,3 +198,4 @@ gem 'pg', '0.18.4'
 #admin
 gem 'activeadmin', github: 'activeadmin'
 gem 'mini_magick', '~> 4.3'
+gem "avatarly"
