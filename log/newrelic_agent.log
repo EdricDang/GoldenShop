@@ -909,3 +909,24 @@ Did you mean?  tap
 [2017-03-29 10:23:39 +0700 quocdat-X550LN (29393)] INFO : Installing Rails 4 view instrumentation
 [2017-03-29 10:23:39 +0700 quocdat-X550LN (29393)] INFO : Installing Rails 4 Controller instrumentation
 [2017-03-29 10:23:39 +0700 quocdat-X550LN (29393)] INFO : Finished instrumentation
+[2017-03-29 16:44:41 +0700 quocdat-X550LN (13702)] INFO : Starting Agent shutdown
+[2017-03-29 16:46:02 +0700 quocdat-X550LN (7883)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-03-29 16:46:02 +0700 quocdat-X550LN (7883)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-29 16:46:02 +0700 quocdat-X550LN (7883)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : New Relic Agent Developer Mode enabled.
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Environment: development
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : No known dispatcher detected.
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Application: Tempgen (Development)
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing Net instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing ActiveJob instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing Rails 4 view instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Installing Rails 4 Controller instrumentation
+[2017-03-29 16:46:03 +0700 quocdat-X550LN (7883)] INFO : Finished instrumentation
+[2017-03-29 16:46:05 +0700 quocdat-X550LN (7883)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-03-29 16:46:13 +0700 quocdat-X550LN (7883)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-03-29 16:46:13 +0700 quocdat-X550LN (7883)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

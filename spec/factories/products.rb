@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :product do
-    image "MyString"
+    image Rack::Test::UploadedFile.new(Rails.root + 'spec/fixtures/spec.jpg', 'image/jpg')
     name "MyString"
     description "MyText"
     price 1

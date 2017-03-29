@@ -19,11 +19,11 @@ class ProductsController < InheritedResources::Base
   def create
     @product = Product.new(product_params)
     @product.user_id = current_user.id
-
+    # debug spec: binding.pry
     if @product.save
       redirect_to '/products', notice: 'Product was successfully created.'
     else
-      render :new, error: result.message
+      render :new, error: 'Errors when create product'
     end
   end
 
