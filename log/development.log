@@ -197,3 +197,19 @@ Raven 2.4.0 configured not to capture errors: DSN not set
 Raven 2.4.0 configured not to capture errors: DSN not set
 Raven 2.4.0 configured not to capture errors: DSN not set
 Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Validation failed: Email has already been taken excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/order_items/3" excluded from capture: DSN not set
+No route matches [GET] "/uploads/product/image/28/download__1_.jpg" excluded from capture: DSN not set
+Raven 2.4.0 configured not to capture errors: DSN not set
+No route matches [GET] "/cart/checkout" excluded from capture: DSN not set
+No route matches [GET] "/carts/checkout" excluded from capture: DSN not set
+No route matches [GET] "/carts/checkout" excluded from capture: DSN not set
+No route matches [GET] "/carts" excluded from capture: DSN not set
+No route matches [GET] "/checkout" excluded from capture: DSN not set
+No route matches [GET] "/cart/new" excluded from capture: DSN not set

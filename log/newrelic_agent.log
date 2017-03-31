@@ -930,3 +930,170 @@ Did you mean?  tap
 [2017-03-29 16:46:05 +0700 quocdat-X550LN (7883)] INFO : Doing deferred dependency-detection before Rack startup
 [2017-03-29 16:46:13 +0700 quocdat-X550LN (7883)] ERROR : Invalid license key, please contact support@newrelic.com
 [2017-03-29 16:46:13 +0700 quocdat-X550LN (7883)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : New Relic Agent Developer Mode enabled.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Environment: development
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : No known dispatcher detected.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Application: Tempgen (Development)
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing Net instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing ActiveJob instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing Rails 4 view instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Installing Rails 4 Controller instrumentation
+[2017-03-31 09:15:02 +0700 quocdat-X550LN (3538)] INFO : Finished instrumentation
+[2017-03-31 09:15:06 +0700 quocdat-X550LN (3538)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-03-31 09:16:45 +0700 quocdat-X550LN (3538)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-03-31 09:16:45 +0700 quocdat-X550LN (3538)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-03-31 11:21:27 +0700 quocdat-X550LN (15560)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-03-31 11:21:27 +0700 quocdat-X550LN (15560)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-31 11:21:27 +0700 quocdat-X550LN (15560)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : New Relic Agent Developer Mode enabled.
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Environment: development
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : No known dispatcher detected.
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Application: Tempgen (Development)
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing Net instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing ActiveJob instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing Rails 4 view instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Installing Rails 4 Controller instrumentation
+[2017-03-31 11:21:28 +0700 quocdat-X550LN (15560)] INFO : Finished instrumentation
+[2017-03-31 12:19:41 +0700 quocdat-X550LN (3538)] INFO : Starting Agent shutdown
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : New Relic Agent Developer Mode enabled.
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Environment: development
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : No known dispatcher detected.
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Application: Tempgen (Development)
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing Net instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing ActiveJob instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing Rails 4 view instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Installing Rails 4 Controller instrumentation
+[2017-03-31 12:19:54 +0700 quocdat-X550LN (28939)] INFO : Finished instrumentation
+[2017-03-31 12:19:55 +0700 quocdat-X550LN (28939)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-03-31 13:33:31 +0700 quocdat-X550LN (28939)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-03-31 13:33:31 +0700 quocdat-X550LN (28939)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-03-31 15:07:22 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Cart
+[2017-03-31 15:07:33 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Cart
+[2017-03-31 15:07:40 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Cart
+[2017-03-31 15:07:47 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Cart
+[2017-03-31 15:07:54 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Cart
+[2017-03-31 15:13:29 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/carts/_cart_row.html.slim:8: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...: number_to_currency order_item.unit_price))).to_s)); 
+...                               ^
+[2017-03-31 15:13:54 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for nil:NilClass
+[2017-03-31 15:15:16 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `unit_price' for #<SimpleForm::FormBuilder:0x007fdb80b422e8>
+[2017-03-31 15:16:20 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Price
+[2017-03-31 15:23:36 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find OrderItem with 'id'=3 [WHERE "order_items"."order_id" = ?]
+[2017-03-31 15:26:09 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/carts/_shopping_cart.html.slim, Line 2, Column 0
+    @order_items.each do |order_item|
+    ^
+
+[2017-03-31 15:26:25 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `h4' for #<#<Class:0x007fdbbf30b7c0>:0x007fdbb1d29f58>
+Did you mean?  h
+[2017-03-31 15:33:28 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/carts/_shopping_cart.html.slim, Line 2, Column 0
+    @order_items.each do |order_item|
+    ^
+
+[2017-03-31 15:33:33 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/carts/_shopping_cart.html.slim, Line 2, Column 0
+    @order_items.each do |order_item|
+    ^
+
+[2017-03-31 15:33:33 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/carts/_shopping_cart.html.slim, Line 2, Column 0
+    @order_items.each do |order_item|
+    ^
+
+[2017-03-31 15:34:49 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/carts/_shopping_cart.html.slim, Line 2, Column 0
+    @order_items.each do |order_item|
+    ^
+
+[2017-03-31 16:24:14 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for nil:NilClass
+[2017-03-31 16:26:29 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb57452c8>:0x007fdbb57514d8>
+Did you mean?  order_item_path
+[2017-03-31 16:27:44 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb57452c8>:0x007fdbb7189170>
+Did you mean?  order_item_path
+[2017-03-31 16:28:45 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb75c1198>:0x007fdbb16bc9e0>
+Did you mean?  order_item_path
+[2017-03-31 16:29:49 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for nil:NilClass
+[2017-03-31 16:30:08 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb768f0e8>:0x007fdbb73b92d8>
+Did you mean?  order_item_path
+[2017-03-31 16:32:37 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbbee81948>:0x007fdb89ba1fc8>
+Did you mean?  order_item_path
+[2017-03-31 16:33:10 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdb88bfc140>:0x007fdba9450330>
+Did you mean?  order_item_path
+[2017-03-31 16:34:13 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb1c993e0>:0x007fdbb1baa4c0>
+Did you mean?  order_item_path
+[2017-03-31 16:37:41 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb5abfb88>:0x007fdbb5366aa8>
+Did you mean?  order_item_path
+[2017-03-31 16:38:40 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdb895d9b90>:0x007fdbb57dc678>
+Did you mean?  order_item_path
+[2017-03-31 16:42:11 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `order_item' for #<#<Class:0x007fdba8fa7f40>:0x007fdba8fb3278>
+Did you mean?  order_item_url
+[2017-03-31 16:42:38 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `order_item' for #<#<Class:0x007fdbb1c6e7f8>:0x007fdbb1d09e88>
+Did you mean?  order_item_url
+[2017-03-31 16:44:03 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template carts/new, application/new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :slim, :arb, :jbuilder]}. Searched in:
+  * "/media/quocdat/HOME/GoldenShop/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-fc08c0faff09/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/rails_db-1.5.0/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/blazer-1.7.9/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/kaminari-core-1.0.1/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/devise-4.2.1/app/views"
+
+[2017-03-31 16:44:14 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template carts/new, application/new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :slim, :arb, :jbuilder]}. Searched in:
+  * "/media/quocdat/HOME/GoldenShop/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-fc08c0faff09/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/rails_db-1.5.0/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/blazer-1.7.9/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/kaminari-core-1.0.1/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/devise-4.2.1/app/views"
+
+[2017-03-31 16:44:42 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `order_item' for #<#<Class:0x007fdbb97ca758>:0x007fdbb8fdee40>
+Did you mean?  order_item_url
+[2017-03-31 16:45:29 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `order_item' for #<#<Class:0x007fdbb1660320>:0x007fdbb1793878>
+Did you mean?  @order_items
+[2017-03-31 16:45:38 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for nil:NilClass
+[2017-03-31 16:46:14 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb1e0deb0>:0x007fdbb1dd1398>
+Did you mean?  order_item_path
+[2017-03-31 16:46:36 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `order' for #<#<Class:0x007fdbb1e0deb0>:0x007fdbb57d1020>
+Did you mean?  @order
+[2017-03-31 16:51:13 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb1e0deb0>:0x007fdbbaf80140>
+Did you mean?  order_item_path
+[2017-03-31 16:56:02 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `order_path' for #<#<Class:0x007fdbb1e0deb0>:0x007fdbb6b9e058>
+Did you mean?  order_item_path
+[2017-03-31 17:02:53 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbbf1d21d8>
+Did you mean?  user
+[2017-03-31 17:03:06 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbb4d35fd0>
+Did you mean?  user
+[2017-03-31 17:03:39 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbbee03138>
+Did you mean?  user
+[2017-03-31 17:04:00 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbb7358730>
+Did you mean?  user
+[2017-03-31 17:05:06 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdb8942e070>
+Did you mean?  user
+[2017-03-31 17:05:35 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbb74899b0>
+Did you mean?  user
+[2017-03-31 17:05:49 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user_id' for #<Order:0x007fdbb0dc7d08>
+Did you mean?  user
+[2017-03-31 17:26:09 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart
+[2017-03-31 17:26:20 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart
+[2017-03-31 17:26:26 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart

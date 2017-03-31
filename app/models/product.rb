@@ -1,6 +1,7 @@
 class Product < ActiveRecord::Base
   belongs_to :category
   belongs_to :user
+  has_many :order_items
   mount_uploader :image, ImageUploader
   validates_processing_of :image
   validate :image_size_validation

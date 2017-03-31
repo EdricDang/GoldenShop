@@ -16,6 +16,11 @@ class ProductsController < InheritedResources::Base
     end
   end
 
+  def show
+    @product = Product.find(params[:id])
+    @order_item = current_order.order_items.new
+  end
+
   def create
     @product = Product.new(product_params)
     @product.user_id = current_user.id

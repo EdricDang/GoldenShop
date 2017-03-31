@@ -16,4 +16,12 @@ p#notice = notice
                = @product.description
             .product-price
                = @product.price
+            = simple_form_for(@order_item) do |f|
+              h4 Unit Price
+              .input-group
+                = f.number_field :quantity , value: 1
+              .input-group-btn
+                = f.hidden_field :product_id, value: @product.id
+              .input-group
+                = submit_tag "add to cart"
 
