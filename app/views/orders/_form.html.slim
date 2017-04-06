@@ -1,0 +1,13 @@
+= simple_form_for(@order) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :name
+    = f.input :address
+    = f.input :email
+    = f.select :pay_type, Order::PAYMENT_TYPES, :prompt => 'Select a payment method'
+
+  .form-actions
+   script.stripe-button data-amount="" data-description=("A month's subscription") data-key="#{Rails.application.secrets.stripe_publishable_key}" data-locale="auto" src="https://checkout.stripe.com/checkout.js"
+
+

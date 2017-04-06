@@ -13,15 +13,13 @@ p#notice = notice
             .product-name
               = @product.name
             .product-description
-               = @product.description
+               = sanitize(@product.description)
             .product-price
                = @product.price
-            = simple_form_for(@order_item) do |f|
-              h4 Unit Price
-              .input-group
-                = f.number_field :quantity , value: 1
-              .input-group-btn
-                = f.hidden_field :product_id, value: @product.id
-              .input-group
-                = submit_tag "add to cart"
+            = form_for @line_items, remote: true do |f|
+              = f.number_field :quantity, value: 1, class: "form-control", min: 1
+              = f.hidden_field :product_id, value: @product.id
+              = f.submit "Add to Cart"
+
+
 

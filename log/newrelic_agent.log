@@ -1097,3 +1097,765 @@ Did you mean?  user
 [2017-03-31 17:26:09 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart
 [2017-03-31 17:26:20 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart
 [2017-03-31 17:26:26 +0700 quocdat-X550LN (28939)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Product with 'id'=cart
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Environment: development
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : No known dispatcher detected.
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Application: Tempgen (Development)
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing Net instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing ActiveJob instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing Rails 4 view instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-03 08:59:56 +0700 quocdat-X550LN (3627)] INFO : Finished instrumentation
+[2017-04-03 08:59:59 +0700 quocdat-X550LN (3627)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-03 09:00:12 +0700 quocdat-X550LN (3627)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-03 09:00:12 +0700 quocdat-X550LN (3627)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-03 09:27:12 +0700 quocdat-X550LN (3627)] INFO : Starting Agent shutdown
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Environment: development
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : No known dispatcher detected.
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Application: Tempgen (Development)
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing Net instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 15:18:37 +0700 quocdat-X550LN (6667)] INFO : Finished instrumentation
+[2017-04-04 15:18:41 +0700 quocdat-X550LN (6667)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-04 15:19:07 +0700 quocdat-X550LN (6667)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-04 15:19:07 +0700 quocdat-X550LN (6667)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-04 15:42:51 +0700 quocdat-X550LN (6667)] INFO : Starting Agent shutdown
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Environment: development
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : No known dispatcher detected.
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Application: Tempgen (Development)
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing Net instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 15:50:21 +0700 quocdat-X550LN (18755)] INFO : Finished instrumentation
+[2017-04-04 15:50:23 +0700 quocdat-X550LN (18755)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-04 15:51:01 +0700 quocdat-X550LN (18755)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-04 15:51:01 +0700 quocdat-X550LN (18755)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-04 15:54:40 +0700 quocdat-X550LN (18755)] INFO : Starting Agent shutdown
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Environment: development
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : No known dispatcher detected.
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Application: Tempgen (Development)
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing Net instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 15:55:48 +0700 quocdat-X550LN (22495)] INFO : Finished instrumentation
+[2017-04-04 15:55:50 +0700 quocdat-X550LN (22495)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-04 15:55:55 +0700 quocdat-X550LN (22495)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-04 15:55:55 +0700 quocdat-X550LN (22495)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : Environment: development
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : No known dispatcher detected.
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] INFO : Application: Tempgen (Development)
+[2017-04-04 16:12:55 +0700 quocdat-X550LN (26999)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing Net instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 16:12:56 +0700 quocdat-X550LN (26999)] INFO : Finished instrumentation
+[2017-04-04 16:20:58 +0700 quocdat-X550LN (27267)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 16:20:58 +0700 quocdat-X550LN (27267)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 16:20:58 +0700 quocdat-X550LN (27267)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Environment: development
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : No known dispatcher detected.
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Application: Tempgen (Development)
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing Net instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 16:20:59 +0700 quocdat-X550LN (27267)] INFO : Finished instrumentation
+[2017-04-04 16:25:39 +0700 quocdat-X550LN (22495)] INFO : Starting Agent shutdown
+[2017-04-04 16:25:58 +0700 quocdat-X550LN (28856)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 16:25:58 +0700 quocdat-X550LN (28856)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 16:25:58 +0700 quocdat-X550LN (28856)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 16:25:59 +0700 quocdat-X550LN (28856)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 16:25:59 +0700 quocdat-X550LN (28856)] INFO : Environment: development
+[2017-04-04 16:25:59 +0700 quocdat-X550LN (28856)] INFO : No known dispatcher detected.
+[2017-04-04 16:25:59 +0700 quocdat-X550LN (28856)] INFO : Application: Tempgen (Development)
+[2017-04-04 16:25:59 +0700 quocdat-X550LN (28856)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 16:26:00 +0700 quocdat-X550LN (28856)] INFO : Installing Net instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 16:26:01 +0700 quocdat-X550LN (28856)] INFO : Finished instrumentation
+[2017-04-04 16:26:03 +0700 quocdat-X550LN (28856)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-04 16:27:09 +0700 quocdat-X550LN (28856)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-04 16:27:09 +0700 quocdat-X550LN (28856)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-04 17:36:59 +0700 quocdat-X550LN (28856)] INFO : Starting Agent shutdown
+[2017-04-04 17:37:48 +0700 quocdat-X550LN (15613)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-04 17:37:48 +0700 quocdat-X550LN (15613)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-04 17:37:48 +0700 quocdat-X550LN (15613)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : Environment: development
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : No known dispatcher detected.
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : Application: Tempgen (Development)
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : Installing Net instrumentation
+[2017-04-04 17:37:49 +0700 quocdat-X550LN (15613)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing ActiveJob instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing Rails 4 view instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-04 17:37:50 +0700 quocdat-X550LN (15613)] INFO : Finished instrumentation
+[2017-04-04 17:37:55 +0700 quocdat-X550LN (15613)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-04 17:40:42 +0700 quocdat-X550LN (15613)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-04 17:40:43 +0700 quocdat-X550LN (15613)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-04 18:00:35 +0700 quocdat-X550LN (15613)] INFO : Starting Agent shutdown
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Environment: development
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : No known dispatcher detected.
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Application: Tempgen (Development)
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing Net instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 08:59:21 +0700 quocdat-X550LN (3490)] INFO : Finished instrumentation
+[2017-04-05 08:59:24 +0700 quocdat-X550LN (3490)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-05 09:00:13 +0700 quocdat-X550LN (3490)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-05 09:00:13 +0700 quocdat-X550LN (3490)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-05 09:17:07 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/line_items/create.js.slim, Line 2, Column 24
+    document.getElementById("cart").innerHTML = content;
+                            ^
+
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Environment: development
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : No known dispatcher detected.
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Application: Tempgen (Development)
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing Net instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 09:26:16 +0700 quocdat-X550LN (8699)] INFO : Finished instrumentation
+[2017-04-05 09:39:04 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Cart with 'id'=1
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Environment: development
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : No known dispatcher detected.
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Application: Tempgen (Development)
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing Net instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 09:41:32 +0700 quocdat-X550LN (17100)] INFO : Finished instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Environment: development
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : No known dispatcher detected.
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Application: Tempgen (Development)
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing Net instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 09:41:46 +0700 quocdat-X550LN (17528)] INFO : Finished instrumentation
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Environment: development
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : No known dispatcher detected.
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Application: Tempgen (Development)
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Installing Net instrumentation
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 09:42:04 +0700 quocdat-X550LN (17953)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 09:42:05 +0700 quocdat-X550LN (17953)] INFO : Finished instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Environment: development
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : No known dispatcher detected.
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Application: Tempgen (Development)
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing Net instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 09:46:54 +0700 quocdat-X550LN (18357)] INFO : Finished instrumentation
+[2017-04-05 09:55:37 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (given 1, expected 0)
+[2017-04-05 09:56:03 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (given 1, expected 0)
+[2017-04-05 09:57:25 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (given 1, expected 0)
+[2017-04-05 09:57:58 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `+' for nil:NilClass
+[2017-04-05 09:59:30 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial line_items/_line_item with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :slim, :arb, :jbuilder]}. Searched in:
+  * "/media/quocdat/HOME/GoldenShop/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-fc08c0faff09/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/rails_db-1.5.0/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/blazer-1.7.9/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/kaminari-core-1.0.1/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/devise-4.2.1/app/views"
+
+[2017-04-05 10:01:16 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Cart with 'id'=8
+[2017-04-05 10:01:47 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/notifier/order_received.html.slim, Line 8, Column 2
+    @order.line_items
+    ^
+
+[2017-04-05 10:03:20 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial line_items/_line_item with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :slim, :arb, :jbuilder]}. Searched in:
+  * "/media/quocdat/HOME/GoldenShop/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-fc08c0faff09/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/rails_db-1.5.0/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/blazer-1.7.9/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/kaminari-core-1.0.1/app/views"
+  * "/home/quocdat/.rvm/gems/ruby-2.3.1/gems/devise-4.2.1/app/views"
+
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Environment: development
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : No known dispatcher detected.
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Application: Tempgen (Development)
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing Net instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 10:09:33 +0700 quocdat-X550LN (28679)] INFO : Finished instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Environment: development
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : No known dispatcher detected.
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Application: Tempgen (Development)
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing Net instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 10:13:26 +0700 quocdat-X550LN (28772)] INFO : Finished instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Environment: development
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : No known dispatcher detected.
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Application: Tempgen (Development)
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing Net instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 10:13:36 +0700 quocdat-X550LN (29591)] INFO : Finished instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Environment: development
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : No known dispatcher detected.
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Application: Tempgen (Development)
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing Net instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 10:13:46 +0700 quocdat-X550LN (29613)] INFO : Finished instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Environment: development
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : No known dispatcher detected.
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Application: Tempgen (Development)
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing Net instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 10:13:54 +0700 quocdat-X550LN (29636)] INFO : Finished instrumentation
+[2017-04-05 10:20:43 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 4
+    %script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+    ^
+
+[2017-04-05 10:21:37 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 25
+    .stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                         ^
+
+[2017-04-05 10:21:50 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected '.'
+...mple::Utils.escape_html_safe((.stripe-button{ src: "https://...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ':', expecting '}'
+...html_safe((.stripe-button{ src: "https://checkout.stripe.com...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ',', expecting '}'
+[2017-04-05 10:22:04 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ':', expecting '}'
+..._html_safe((stripe-button{ src: "https://checkout.stripe.com...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ',', expecting '}'
+[2017-04-05 10:22:47 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:15: syntax error, unexpected '<'
+...tils.escape_html_safe(("auto"></script>))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: unknown regexp options - data
+unmatched close parenthesis: /script>))).to_s)); 
+; @output_buffer.safe_concat(("</
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: syntax error, unexpected '<'
+...r.safe_concat(("</data-locale></div>".freeze)); end; @output...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: unterminated regexp meets end of file
+[2017-04-05 10:23:00 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:15: syntax error, unexpected '<'
+...tils.escape_html_safe(("auto"></script>))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: unknown regexp options - data
+unmatched close parenthesis: /script>))).to_s)); 
+; @output_buffer.safe_concat(("</
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: unterminated string meets end of file
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: syntax error, unexpected end-of-input, expecting ')'
+[2017-04-05 10:23:26 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:15: syntax error, unexpected ')'
+...tils.escape_html_safe(("auto">))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:18: syntax error, unexpected keyword_ensure, expecting ')'
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:20: syntax error, unexpected keyword_end, expecting ')'
+[2017-04-05 10:23:37 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:14: syntax error, unexpected ')'
+...Utils.escape_html_safe(("500">))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:17: syntax error, unexpected keyword_ensure, expecting ')'
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:19: syntax error, unexpected keyword_end, expecting ')'
+[2017-04-05 10:23:39 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:14: syntax error, unexpected ')'
+...Utils.escape_html_safe(("500">))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:17: syntax error, unexpected keyword_ensure, expecting ')'
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:19: syntax error, unexpected keyword_end, expecting ')'
+[2017-04-05 10:33:49 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:14: syntax error, unexpected tLABEL_END, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+...:Utils.escape_html_safe(("500":))).to_s)); 
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:15: syntax error, unexpected keyword_end, expecting ')'
+...avascript></div>".freeze)); end; @output_buffer.safe_concat(...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:16: syntax error, unexpected keyword_ensure, expecting ')'
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:18: syntax error, unexpected keyword_end, expecting ')'
+[2017-04-05 10:34:52 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 31
+    script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                               ^
+
+[2017-04-05 10:35:11 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 32
+    script:.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                                ^
+
+[2017-04-05 10:36:13 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 35
+    javascript.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                                   ^
+
+[2017-04-05 10:40:42 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 12, Column 31
+    script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                               ^
+
+[2017-04-05 10:41:26 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 12, Column 17
+    script{ src: "https://checkout.stripe.com/checkout.js",
+                 ^
+
+[2017-04-05 10:44:35 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ':', expecting '}'
+; script.stripe-button{ src: "https://checkout.stripe.com...
+                            ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:11: syntax error, unexpected ',', expecting '}'
+[2017-04-05 10:47:50 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `stripe' for #<Rails::Application::Configuration:0x00000002b45a58>
+[2017-04-05 10:47:53 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `stripe' for #<Rails::Application::Configuration:0x00000002b45a58>
+[2017-04-05 10:49:10 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 5
+    \%script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+    ^
+
+[2017-04-05 10:55:06 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 31
+    script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                               ^
+
+[2017-04-05 10:57:03 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Expected attribute
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 11, Column 31
+    script.stripe-button{ src: "https://checkout.stripe.com/checkout.js",
+                               ^
+
+[2017-04-05 10:58:03 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `stripe' for #<Rails::Application::Configuration:0x00000002b45a58>
+[2017-04-05 10:59:00 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `secrets' for #<Rails::Application::Configuration:0x00000002b45a58>
+Did you mean?  secret_token
+[2017-04-05 11:01:09 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: syntax error, unexpected tCONSTANT, expecting ')'
+...shable_key" data-description="A month's subscription" data-a...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: unterminated string meets end of file
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: syntax error, unexpected end-of-input, expecting ')'
+[2017-04-05 11:01:26 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: syntax error, unexpected tCONSTANT, expecting ')'
+...hable_key " data-description="A month's subscription" data-a...
+...                               ^
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: unterminated string meets end of file
+/media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim:12: syntax error, unexpected end-of-input, expecting ')'
+[2017-04-05 11:01:43 +0700 quocdat-X550LN (3490)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown line indicator
+  /media/quocdat/HOME/GoldenShop/app/views/orders/_form.html.slim, Line 13, Column 0
+    " data-description="A month's subscription" data-amount="500" data-locale="auto">
+    ^
+
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Environment: development
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : No known dispatcher detected.
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Application: Tempgen (Development)
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Installing Net instrumentation
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 11:03:52 +0700 quocdat-X550LN (953)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 11:03:53 +0700 quocdat-X550LN (953)] INFO : Finished instrumentation
+[2017-04-05 11:15:14 +0700 quocdat-X550LN (3490)] INFO : Starting Agent shutdown
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Environment: development
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : No known dispatcher detected.
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Application: Tempgen (Development)
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing Net instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing Rails 4 view instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-05 11:15:47 +0700 quocdat-X550LN (4421)] INFO : Finished instrumentation
+[2017-04-05 11:15:50 +0700 quocdat-X550LN (4421)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-05 11:15:57 +0700 quocdat-X550LN (4421)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-05 11:15:57 +0700 quocdat-X550LN (4421)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-05 13:57:30 +0700 quocdat-X550LN (4421)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: String can't be coerced into Fixnum
+[2017-04-05 13:57:44 +0700 quocdat-X550LN (4421)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: String can't be coerced into Fixnum
+[2017-04-05 13:59:36 +0700 quocdat-X550LN (4421)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /media/quocdat/HOME/GoldenShop/app/controllers/line_items_controller.rb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+    respond_to do |format|
+              ^
+[2017-04-05 14:01:48 +0700 quocdat-X550LN (4421)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Cart with 'id'=14
+[2017-04-05 14:16:11 +0700 quocdat-X550LN (4421)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: unknown attribute 'card_token' for Order.
+[2017-04-05 14:34:49 +0700 quocdat-X550LN (4421)] INFO : Starting Agent shutdown
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Environment: development
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : No known dispatcher detected.
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Application: Tempgen (Development)
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing Net instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 00:57:49 +0700 quocdat-X550LN (32127)] INFO : Finished instrumentation
+[2017-04-06 00:57:53 +0700 quocdat-X550LN (32127)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Environment: development
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : No known dispatcher detected.
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Application: Tempgen (Development)
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing Net instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 02:10:45 +0700 quocdat-X550LN (2456)] INFO : Finished instrumentation
+[2017-04-06 02:10:48 +0700 quocdat-X550LN (2456)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 02:10:54 +0700 quocdat-X550LN (2456)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-06 02:10:54 +0700 quocdat-X550LN (2456)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-06 02:11:29 +0700 quocdat-X550LN (2456)] INFO : Starting Agent shutdown
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Environment: development
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : No known dispatcher detected.
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Application: Tempgen (Development)
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing Net instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 02:11:52 +0700 quocdat-X550LN (2571)] INFO : Finished instrumentation
+[2017-04-06 02:11:54 +0700 quocdat-X550LN (2571)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 02:12:23 +0700 quocdat-X550LN (2571)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-06 02:12:23 +0700 quocdat-X550LN (2571)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-06 02:14:18 +0700 quocdat-X550LN (2571)] INFO : Starting Agent shutdown
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Environment: development
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : No known dispatcher detected.
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Application: Tempgen (Development)
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing Net instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 02:14:42 +0700 quocdat-X550LN (4772)] INFO : Finished instrumentation
+[2017-04-06 02:14:43 +0700 quocdat-X550LN (4772)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 02:14:57 +0700 quocdat-X550LN (4772)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-06 02:14:57 +0700 quocdat-X550LN (4772)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-06 02:16:56 +0700 quocdat-X550LN (4772)] INFO : Starting Agent shutdown
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Environment: development
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : No known dispatcher detected.
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Application: Tempgen (Development)
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing Net instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 02:17:25 +0700 quocdat-X550LN (6856)] INFO : Finished instrumentation
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : Environment: development
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : No known dispatcher detected.
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] INFO : Application: Tempgen (Development)
+[2017-04-06 02:19:40 +0700 quocdat-X550LN (8865)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing Net instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 02:19:41 +0700 quocdat-X550LN (8865)] INFO : Finished instrumentation
+[2017-04-06 02:19:42 +0700 quocdat-X550LN (8865)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 02:19:49 +0700 quocdat-X550LN (8865)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-06 02:19:49 +0700 quocdat-X550LN (8865)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Environment: development
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : No known dispatcher detected.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Application: Tempgen (Development)
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing Net instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 03:04:31 +0700 quocdat-X550LN (29551)] INFO : Finished instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Environment: development
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : No known dispatcher detected.
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Application: Tempgen (Development)
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing Net instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 03:06:23 +0700 quocdat-X550LN (30626)] INFO : Finished instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Environment: development
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : No known dispatcher detected.
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Application: Tempgen (Development)
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing Net instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 03:15:03 +0700 quocdat-X550LN (1171)] INFO : Finished instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Environment: development
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : No known dispatcher detected.
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Application: Tempgen (Development)
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing Net instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 03:16:12 +0700 quocdat-X550LN (2534)] INFO : Finished instrumentation
+[2017-04-06 03:31:11 +0700 quocdat-X550LN (8865)] INFO : Starting Agent shutdown
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : Reading configuration from config/newrelic.yml (/media/quocdat/HOME/GoldenShop)
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : Environment: development
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : No known dispatcher detected.
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] INFO : Application: Tempgen (Development)
+[2017-04-06 10:01:52 +0700 quocdat-X550LN (16811)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing Net instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing ActiveRecord 4 instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing Rails 4 view instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-06 10:01:53 +0700 quocdat-X550LN (16811)] INFO : Finished instrumentation
+[2017-04-06 10:01:54 +0700 quocdat-X550LN (16811)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 10:04:24 +0700 quocdat-X550LN (16811)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-06 10:04:24 +0700 quocdat-X550LN (16811)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-06 10:06:03 +0700 quocdat-X550LN (16811)] INFO : Starting Agent shutdown

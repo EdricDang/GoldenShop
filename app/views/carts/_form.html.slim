@@ -1,11 +1,7 @@
-.container
-  .new-product
-    .form-product
-      = simple_form_for(@order) do |f|
-        = f.error_notification
+= simple_form_for(@cart) do |f|
+  = f.error_notification
 
-        .form-inputs
-          = f.input :email
-          = f.input :string
-        .form-actions
-          = f.button :submit
+  .form-inputs
+
+  .form-actions
+    = f.button :submit

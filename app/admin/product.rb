@@ -7,8 +7,6 @@ ActiveAdmin.register Product do
     column :image
     column :description
     column :price
-    column :year
-    actions
     actions
   end
 # See permitted parameters documentation:

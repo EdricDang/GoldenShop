@@ -1,15 +1,8 @@
 Rails.application.routes.draw do
-  get 'order_items/create'
 
-  get 'order_items/update'
-
-  get 'order_items/destroy'
-
-  get 'carts/show'
-
-
-  resource :cart
-  resources :order_items, only: [:create, :update, :destroy]
+  resources :orders
+  resources :line_items
+  resources :carts
   resources :categories
   resources :products
   devise_for :admin_users, ActiveAdmin::Devise.config

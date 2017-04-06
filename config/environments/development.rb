@@ -55,4 +55,17 @@ Rails.application.configure do
   # Bullet.airbrake = false
   # Bullet.rollbar = false
   Bullet.add_footer = true
+
+  #email server
+  config.action_mailer.delivery_method = :smtp
+
+  config.action_mailer.smtp_settings = {
+    :address => 'smtp.gmail.com',
+    :port => 587,
+    :domain => 'GoldenShop.com',
+    :authentication => 'plain',
+    :user_name => 'qdat.test@gmail.com',
+    :password => 'Dat123456',
+    :enable_starttls_auto => true
+  }
 end

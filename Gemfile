@@ -116,7 +116,7 @@ gem 'friendly_id', '~> 5.1.0'
 # gem 'gibbon'
 
 # payment gateway
-# gem 'stripe'
+gem 'stripe'
 # online exchange rate
 # gem 'eu_central_bank'
 

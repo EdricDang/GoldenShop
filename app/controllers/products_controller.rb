@@ -5,6 +5,7 @@ class ProductsController < InheritedResources::Base
     @category = Category.all.map{|c|[c.name,c.id]}
     @categories_list = Category.all
     @title_page = ''
+    @line_items = current_cart.line_items.new
   end
 
   def new
@@ -18,7 +19,7 @@ class ProductsController < InheritedResources::Base
 
   def show
     @product = Product.find(params[:id])
-    @order_item = current_order.order_items.new
+    @line_items = current_cart.line_items.new
   end
 
   def create
